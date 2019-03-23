@@ -1,0 +1,11 @@
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.exe.config
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\PacketDotNet.dll
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.dll
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\PacketDotNet.xml
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.xml
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\obj\Debug\SharpPcap.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\obj\Debug\SharpPcap.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\obj\Debug\SharpPcap.csprojResolveAssemblyReference.cache
+D:\OneDrive\Software Glossary\Projects\Server Projects\SharpPcap\SharpPcap\bin\Debug\SharpPcap.Capture.exe.config
